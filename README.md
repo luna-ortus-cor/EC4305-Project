@@ -8,3 +8,8 @@ The project investigates inflation-adjusted HDB resale prices and floor area, fo
 
 The work is implemented in Python using Jupyter Notebooks. 
 
+# Dataset
+The dataset used in this project is obtained from the public GitHub repository:
+https://github.com/concealexi/resalerangers
+
+We use their cleaned and structured HDB resale transaction data as the foundation for our marginal distribution modelling, copula dependence analysis, and regression modelling.
