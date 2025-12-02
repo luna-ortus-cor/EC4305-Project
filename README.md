@@ -5,4 +5,6 @@ The project investigates inflation-adjusted HDB resale prices and floor area, fo
 - Marginal distribution modelling (parametric + non-parametric)
 - Copula-based dependence modelling
 - Regression analysis for price determinants
-The work is implemented in Python using Jupyter Notebooks, supported by custom scripts for copula construction and diagnostics.
+
+The work is implemented in Python using Jupyter Notebooks. 
+
